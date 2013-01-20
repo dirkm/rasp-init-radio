@@ -1,0 +1,7 @@
+# Default settings for radio. This file is sourced by /bin/sh from
+# /etc/init.d/radio.
+
+# Options to pass to radio
+CHANNEL=radio1
+#CHANNEL=stubru
+URL="http://mp3.streampower.be/${CHANNEL}-high"
